@@ -416,16 +416,16 @@ function changeHTML1() {
   document.getElementById("changeMe").innerHTML = "Our Bedroom Designs";
 }
 function changeHTML2() {
-    document.getElementById("changeMe").innerHTML = "Our Bathroom Designs";
+    document.getElementById("changeMe").innerHTML = "Our Sofa Designs";
 }
 function changeHTML3() {
-    document.getElementById("changeMe").innerHTML = "Explore Modular Kitchens";
+    document.getElementById("changeMe").innerHTML = "Explore Office Furniture";
 }
 function changeHTML4() {
-    document.getElementById("changeMe").innerHTML = "Living Rooms Designed by us";
+    document.getElementById("changeMe").innerHTML = "Dining Tables Designed by us";
 }
 function changeHTML5() {
-    document.getElementById("changeMe").innerHTML = "Our Home Office Collection";
+    document.getElementById("changeMe").innerHTML = "Explore Our Products";
 }
 
 function changeImage1() {
