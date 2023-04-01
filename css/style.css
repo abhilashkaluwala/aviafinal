@@ -668,7 +668,7 @@ blockquote div.author::before{
     left:50%;
     bottom:50%
 }
-.image a.zoom,.project-gallery .item a.zoom,.services .item a.zoom,.post-media a.zoom{
+.image a.zoom,.project-gallery .item a.zoom,.services.item a.zoom,.post-media a.zoom{
     position:absolute;
     right:-4.5em;
     left:auto;
